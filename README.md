@@ -102,9 +102,12 @@ The project includes an interactive Power BI dashboard featuring:
 
 ### Dashboard Files
 
-📄 View Dashboard Report (PDF)
+## Dashboard Files
 
-📊 Download Power BI Dashboard (.pbix)
+📄 [View Dashboard Report (PDF)](./Covid19.pdf)
+
+📊 [Download Power BI Dashboard (.pbix)](./Covid19.pbix)
+
 ---
 
 ## Kaggle Notebook
