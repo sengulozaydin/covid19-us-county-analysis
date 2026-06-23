@@ -100,9 +100,13 @@ The project includes an interactive Power BI dashboard featuring:
 * Demographic Analysis
 * Final Conclusions
 
-### Download Dashboard
+### Dashboard Files
 
-[Download Power BI Dashboard](./Covid19.pbix)
+📄 View Dashboard Report (PDF)
+Covid19.pdf
+
+📊 Download Power BI Dashboard (.pbix)
+Covid19.pbix
 ---
 
 ## Kaggle Notebook
