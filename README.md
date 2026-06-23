@@ -1,6 +1,3 @@
-# covid19-us-county-analysis
-Analysis of COVID-19 case and death rates across U.S. counties using demographic, geographic, socioeconomic, and machine learning techniques.
-
 # COVID-19 US County Analysis
 ![COVID-19 Dashboard](dashboard_cover.png)
 
@@ -103,6 +100,9 @@ The project includes an interactive Power BI dashboard featuring:
 * Demographic Analysis
 * Final Conclusions
 
+### Download Dashboard
+
+[Download Power BI Dashboard](./Covid19.pbix)
 ---
 
 ## Kaggle Notebook
