@@ -2,6 +2,7 @@
 Analysis of COVID-19 case and death rates across U.S. counties using demographic, geographic, socioeconomic, and machine learning techniques.
 
 # COVID-19 US County Analysis
+![COVID-19 Dashboard](dashboard_cover.png)
 
 ## Project Overview
 
