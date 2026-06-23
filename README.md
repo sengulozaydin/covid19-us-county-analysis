@@ -116,5 +116,5 @@ Kaggle Notebook Link:
 
 **Sengül Özaydın**
 
-Data Sciencist| Health Data Analyst | Veterinarian
+Data Sciencist | Health Data Analyst | Veterinarian
 
