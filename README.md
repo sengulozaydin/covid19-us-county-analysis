@@ -108,7 +108,7 @@ The project includes an interactive Power BI dashboard featuring:
 
 Kaggle Notebook Link:
 
-[(https://www.kaggle.com/code/monte81/covid19)]
+[https://www.kaggle.com/code/monte81/covid19]
 
 ---
 
