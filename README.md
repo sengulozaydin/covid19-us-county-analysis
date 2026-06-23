@@ -114,7 +114,7 @@ Kaggle Notebook Link:
 
 ## Author
 
-**Sengul Ozaydin**
+**Sengül Özaydın**
 
 Data Sciencist| Health Data Analyst | Veterinarian
 
