@@ -104,7 +104,7 @@ The project includes an interactive Power BI dashboard featuring:
 
 ## Dashboard Files
 
-📄 [View Dashboard Report (PDF)](./Covid19.pdf)
+📄 [View Dashboard Report (PDF)](./Covid19_Analysis.pdf)
 
 📊 [Download Power BI Dashboard (.pbix)](./Covid19.pbix)
 
